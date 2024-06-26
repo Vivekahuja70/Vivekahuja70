@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](http://www.i-am.co.id/images/Mobile-Development.png)
+![MasterHead](https://i.pinimg.com/564x/a4/f2/99/a4f299621122448e93501f8212b37834.jpg)
 
 <h1 align="center">Hi 👋, I'm Vivek Ahuja</h1>
 <h3 align="center">A software engineer and passionate mobile app developer</h3> 
