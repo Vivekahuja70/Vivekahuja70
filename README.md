@@ -16,22 +16,21 @@ Here are some ideas to get you started:
 -->
 ![MasterHead](http://www.i-am.co.id/images/Mobile-Development.png)
 
-<h1 align="center">Hi 👋, I'm Elias Ayele</h1>
+<h1 align="center">Hi 👋, I'm Vivek Ahuja</h1>
 <h3 align="center">A software engineer and passionate mobile app developer</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vivekahuja70&label=Profile%20views&color=0e75b6&style=flat" alt="Vivekahuja70" /> </p>
 
 
-<img align="right" alt="Coding gif" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
-<p align="left"> <a href="https://twitter.com/elias_ayele1" target="blank"><img src="https://img.shields.io/twitter/follow/elias_ayele1?logo=twitter&style=for-the-badge" alt="elias_ayele1" /></a> </p>
+<img align="right" alt="Coding gif" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-- 🔭 I’m currently working on [Ride Plus](https://play.google.com/store/apps/details?id=com.ridetm&hl=en&gl=US)
+- 👨‍💻 All of my projects are available at [https://github.com/Vivekahuja70/]
 
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
-- 💬 Ask me about **Android, iOS, flutter, kotlin, swiftUI**
+- 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
 
-- 📫 How to reach me **eliasey11@gmail.com**
+- 📫 How to reach me **imvivekahuja70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
